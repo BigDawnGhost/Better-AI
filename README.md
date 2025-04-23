@@ -20,3 +20,14 @@
 我们修改聊天记录再继续，可以看见效果，是一步到位，不需要折腾用户提示词慢慢诱导！
 ![截图 2025-04-24 00-11-03](https://github.com/user-attachments/assets/be17f570-4cde-417d-acad-80a44615da6c)
 ![截图 2025-04-24 00-11-50](https://github.com/user-attachments/assets/1d77d5ba-6ea2-4ee6-a780-590deb0774d2)
+#### 充满性描写的情色小说
+通过以上方法，我们可以让大模型输出本来不愿意输出的内容，下面进行小小的进阶，算是抱砖引玉。让大模型写充满性描写的情色小说。
+![截图 2025-04-24 00-22-37](https://github.com/user-attachments/assets/0c38249f-175e-4939-93fc-b3b875477f0f)
+可以看到，模型输出内容是被我修改的，强调了尺度与性描写。然后它的创作就会延续，我们可以一直回复继续。但是也有碰壁的时候，比如我让它接着写第三个人加入，它就会告诉你不能这样写。
+![截图 2025-04-24 00-27-49](https://github.com/user-attachments/assets/0d013c09-2467-44ef-a89e-f29817ce3ecb)
+真的不能吗？修改回复为：
+![截图 2025-04-24 00-29-02](https://github.com/user-attachments/assets/cc813c43-466a-4535-aefa-62762c090e90)
+我们看结果：
+![截图 2025-04-24 00-30-40](https://github.com/user-attachments/assets/14c3dd66-d20f-467c-812f-679f3511ff58)
+
+
