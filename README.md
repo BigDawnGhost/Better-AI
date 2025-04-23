@@ -25,9 +25,8 @@
 ![截图 2025-04-24 00-22-37](https://github.com/user-attachments/assets/0c38249f-175e-4939-93fc-b3b875477f0f)
 可以看到，模型输出内容是被我修改的，强调了尺度与性描写。然后它的创作就会延续，我们可以一直回复继续。但是也有碰壁的时候，比如我让它接着写第三个人加入，它就会告诉你不能这样写。
 ![截图 2025-04-24 00-27-49](https://github.com/user-attachments/assets/0d013c09-2467-44ef-a89e-f29817ce3ecb)
-真的不能吗？修改回复为：
+真的不能吗？修改回复，我们来看结果：
 ![截图 2025-04-24 00-29-02](https://github.com/user-attachments/assets/cc813c43-466a-4535-aefa-62762c090e90)
-我们看结果：
 ![截图 2025-04-24 00-30-40](https://github.com/user-attachments/assets/14c3dd66-d20f-467c-812f-679f3511ff58)
 
 
